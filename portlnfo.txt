@@ -1,0 +1,270 @@
+
+活动连接
+
+  协议  本地地址          外部地址        状态           PID
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1076
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:1433           0.0.0.0:0              LISTENING       5168
+  TCP    0.0.0.0:2383           0.0.0.0:0              LISTENING       5288
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       10720
+  TCP    0.0.0.0:16450          0.0.0.0:0              LISTENING       8188
+  TCP    0.0.0.0:16451          0.0.0.0:0              LISTENING       6424
+  TCP    0.0.0.0:16452          0.0.0.0:0              LISTENING       6424
+  TCP    0.0.0.0:16453          0.0.0.0:0              LISTENING       8188
+  TCP    0.0.0.0:17001          0.0.0.0:0              LISTENING       8188
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       728
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1780
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1608
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2700
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3764
+  TCP    0.0.0.0:49697          0.0.0.0:0              LISTENING       804
+  TCP    0.0.0.0:49707          0.0.0.0:0              LISTENING       816
+  TCP    0.0.0.0:50026          0.0.0.0:0              LISTENING       16116
+  TCP    127.0.0.1:80           127.0.0.1:51172        TIME_WAIT       0
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING       5168
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING       4704
+  TCP    127.0.0.1:8890         0.0.0.0:0              LISTENING       3540
+  TCP    127.0.0.1:8990         0.0.0.0:0              LISTENING       3540
+  TCP    127.0.0.1:9421         0.0.0.0:0              LISTENING       16116
+  TCP    127.0.0.1:49669        127.0.0.1:49671        ESTABLISHED     3540
+  TCP    127.0.0.1:49670        127.0.0.1:49672        ESTABLISHED     3540
+  TCP    127.0.0.1:49671        127.0.0.1:49669        ESTABLISHED     3540
+  TCP    127.0.0.1:49672        127.0.0.1:49670        ESTABLISHED     3540
+  TCP    127.0.0.1:51172        127.0.0.1:80           TIME_WAIT       0
+  TCP    192.168.1.115:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.115:16450    192.168.1.115:49836    ESTABLISHED     8188
+  TCP    192.168.1.115:16451    192.168.1.115:49930    ESTABLISHED     6424
+  TCP    192.168.1.115:49699    52.230.80.159:443      ESTABLISHED     4616
+  TCP    192.168.1.115:49836    192.168.1.115:16450    ESTABLISHED     6424
+  TCP    192.168.1.115:49930    192.168.1.115:16451    ESTABLISHED     6424
+  TCP    192.168.1.115:50011    69.192.2.145:443       ESTABLISHED     16116
+  TCP    192.168.1.115:50222    223.167.166.56:443     ESTABLISHED     9332
+  TCP    192.168.1.115:50567    221.181.72.176:443     ESTABLISHED     14608
+  TCP    192.168.1.115:50606    221.181.72.212:443     ESTABLISHED     14608
+  TCP    192.168.1.115:50607    221.181.72.212:443     ESTABLISHED     14608
+  TCP    192.168.1.115:50653    111.13.148.232:443     ESTABLISHED     14608
+  TCP    192.168.1.115:50756    111.13.100.92:443      CLOSE_WAIT      10808
+  TCP    192.168.1.115:50781    111.13.148.232:443     ESTABLISHED     14608
+  TCP    192.168.1.115:50929    42.236.37.138:80       ESTABLISHED     9332
+  TCP    192.168.1.115:51016    223.111.181.4:443      TIME_WAIT       0
+  TCP    192.168.1.115:51017    223.111.181.4:443      TIME_WAIT       0
+  TCP    192.168.1.115:51170    110.43.81.41:80        TIME_WAIT       0
+  TCP    192.168.1.115:51171    115.182.195.29:80      TIME_WAIT       0
+  TCP    [::]:80                [::]:0                 LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       1076
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:1433              [::]:0                 LISTENING       5168
+  TCP    [::]:2383              [::]:0                 LISTENING       5288
+  TCP    [::]:16452             [::]:0                 LISTENING       6424
+  TCP    [::]:16453             [::]:0                 LISTENING       8188
+  TCP    [::]:17001             [::]:0                 LISTENING       8188
+  TCP    [::]:49664             [::]:0                 LISTENING       728
+  TCP    [::]:49665             [::]:0                 LISTENING       1780
+  TCP    [::]:49666             [::]:0                 LISTENING       1608
+  TCP    [::]:49667             [::]:0                 LISTENING       2700
+  TCP    [::]:49668             [::]:0                 LISTENING       3764
+  TCP    [::]:49697             [::]:0                 LISTENING       804
+  TCP    [::]:49707             [::]:0                 LISTENING       816
+  TCP    [::1]:1434             [::]:0                 LISTENING       5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49708  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49735  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49741  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49744  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49746  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49748  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49750  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49752  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49754  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49756  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49758  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49761  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49763  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49765  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49767  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49769  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49772  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49774  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49776  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49778  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49780  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49782  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49784  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49786  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49791  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49793  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49796  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49798  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49801  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49803  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49805  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49807  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49809  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49811  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49813  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49815  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49817  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49820  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49822  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49824  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49826  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49828  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49830  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49834  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49846  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49848  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49851  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49853  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49855  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49857  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49859  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49861  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49863  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49865  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49867  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49869  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49871  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49873  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49875  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49877  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49879  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49881  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49883  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49885  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49887  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49889  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49891  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49893  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49895  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49897  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49899  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49901  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49903  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49905  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49907  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49909  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49911  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49913  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49915  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49918  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49920  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49922  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49925  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:1433  [fe80::1dbe:ec16:e286:e18d%13]:49927  ESTABLISHED     5168
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49708  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49735  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49741  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49744  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49746  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49748  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49750  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49752  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49754  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49756  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49758  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49761  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49763  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49765  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49767  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49769  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49772  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49774  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49776  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49778  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49780  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49782  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49784  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49786  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49791  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49793  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49796  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49798  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49801  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49803  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49805  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49807  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49809  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49811  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49813  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49815  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49817  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49820  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49822  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49824  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49826  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49828  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49830  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49834  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     8188
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49846  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49848  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49851  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49853  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49855  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49857  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49859  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49861  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49863  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49865  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49867  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49869  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49871  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49873  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49875  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49877  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49879  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49881  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49883  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49885  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49887  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49889  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49891  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49893  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49895  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49897  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49899  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49901  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49903  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49905  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49907  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49909  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49911  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49913  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49915  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49918  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49920  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49922  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49925  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  TCP    [fe80::1dbe:ec16:e286:e18d%13]:49927  [fe80::1dbe:ec16:e286:e18d%13]:1433  ESTABLISHED     6424
+  UDP    0.0.0.0:500            *:*                                    4544
+  UDP    0.0.0.0:3600           *:*                                    9332
+  UDP    0.0.0.0:4500           *:*                                    4544
+  UDP    0.0.0.0:5050           *:*                                    10720
+  UDP    0.0.0.0:5353           *:*                                    3104
+  UDP    0.0.0.0:5355           *:*                                    3104
+  UDP    0.0.0.0:49665          *:*                                    4508
+  UDP    0.0.0.0:49666          *:*                                    4508
+  UDP    0.0.0.0:49667          *:*                                    4704
+  UDP    0.0.0.0:57353          *:*                                    16116
+  UDP    0.0.0.0:57354          *:*                                    16116
+  UDP    0.0.0.0:58423          *:*                                    11936
+  UDP    0.0.0.0:59918          *:*                                    9332
+  UDP    127.0.0.1:1900         *:*                                    8592
+  UDP    127.0.0.1:5353         *:*                                    4704
+  UDP    127.0.0.1:49664        *:*                                    5048
+  UDP    127.0.0.1:52247        *:*                                    16116
+  UDP    127.0.0.1:55188        *:*                                    16116
+  UDP    127.0.0.1:55275        *:*                                    8592
+  UDP    192.168.1.115:137      *:*                                    4
+  UDP    192.168.1.115:138      *:*                                    4
+  UDP    192.168.1.115:1900     *:*                                    8592
+  UDP    192.168.1.115:55274    *:*                                    8592
+  UDP    [::]:500               *:*                                    4544
+  UDP    [::]:4500              *:*                                    4544
+  UDP    [::]:5353              *:*                                    3104
+  UDP    [::]:5355              *:*                                    3104
+  UDP    [::]:49668             *:*                                    4704
+  UDP    [::]:58423             *:*                                    11936
+  UDP    [::1]:1900             *:*                                    8592
+  UDP    [::1]:55273            *:*                                    8592
+  UDP    [fe80::1dbe:ec16:e286:e18d%13]:1900  *:*                                    8592
+  UDP    [fe80::1dbe:ec16:e286:e18d%13]:55272  *:*                                    8592
