@@ -1,0 +1,93 @@
+/*消除input框选中状态*/
+/*body{*/
+/*   background: url("images/back01.jpg") no-repeat ;*/
+/*    background-size: cover;*/
+/*}*/
+input
+{ outline: none }
+button{
+    outline: none;
+}
+.tableattr{
+    text-align: center;
+}
+.inputId{
+    width: 100px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px #888888;
+    border: 1px solid #777;
+}
+.inputEnd{
+    width: 100px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px #888888;
+    border: 1px solid #777;
+}
+.inputSta{
+    width: 100px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px #888888;
+    border: 1px solid #777;
+}
+.subEnd{
+    margin-left: 10px;
+    background: 	#87CEFA;
+    border-radius: 10px !important;
+    border: 1px solid #777;
+
+}
+.subSta{
+    margin-left: 10px;
+    background: 	#87CEFA;
+    border-radius: 10px !important;
+    border: 1px solid #777;
+}
+/*字体样式*/
+.font{
+    font-family: cursive;
+    /*font-weight: bold;*/
+}
+.showpro>b{
+    margin-bottom: 10px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.tablelog{
+    height: 300px;
+    margin-top: 2%;
+    border: 1px solid #888888;
+    overflow: auto;
+}
+.showpro{
+    margin-top: 10%;
+}
+.staticD{
+    margin-top: 10%;
+    padding: 6px 11px;
+    border: 1px solid #888888;
+    border-radius: 10px;
+}
+.staticD>select{
+    border-radius: 10px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+.staticD>input{
+    margin-top: 1px;
+    border-radius: 7px;
+    border: 1px solid #888888;
+}
+.inputData{
+    padding: 1px 1px;
+    border: 1px solid #888888;
+    border-radius: 10px;
+}
+.sumbutton{
+    margin-left: 807px;
+
+}
+.sumattr{
+    border-radius: 5px;
+    background: darkgray;
+}
+
