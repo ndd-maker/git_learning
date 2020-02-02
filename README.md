@@ -1,4 +1,6 @@
 # git_learning
+git add by git learing
+git add git commit
 new learning git 
 we are ina common branch
 <<<<<<< HEAD
