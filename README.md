@@ -1,4 +1,5 @@
 # git_learning
+ggit commit by git learing02
 new learning git 
 we are ina common branch
 <<<<<<< HEAD
